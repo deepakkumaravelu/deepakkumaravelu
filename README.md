@@ -10,15 +10,15 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - ⚡ I love to learn and explore new technologies.
 
 ## Languages and Tools
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
@@ -28,12 +28,12 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumaravelu&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumaravelu&layout=compact&theme=dark)
 
 ## Status
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumaravelu&" alt="deepakkumaravelu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumaravelu&theme=dark" alt="deepakkumaravelu" /></p>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@deepakkumaravelu)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@deepakkumaravelu&theme=dark)
 
 ## Trophies
 
@@ -41,7 +41,8 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Deepak1122003)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat)](https://deepakkumaravelu.site/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
+[![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/Deepak1122003)
+[![Hashnode](https://img.shields.io/badge/Hashnode-black?style=flat)](https://hashnode.com/@Deepak1122003)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://deepakkumaravelu.site/)
 
