@@ -15,6 +15,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![jQuery Badge](https://img.shields.io/badge/jQuery-black)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
