@@ -4,7 +4,7 @@
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge me and allow me to learn and grow.
 
 - 🔭 I’m currently working on [Freelance Website](#)
-- 🌱 I’m currently learning [Full stack development](#)
+- 🌱 I’m currently learning [Full stack development and machine learning](#)
 - 💬 Ask me about anything related to JavaScript and Web Development
 - 📫 How to reach me: [Email](mailto:deepak1122003kumar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
 - ⚡ I love to learn and explore new technologies.
