@@ -41,5 +41,4 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
 [![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/Deepak1122003)
 [![Hashnode](https://img.shields.io/badge/Hashnode-black?style=flat)](https://hashnode.com/@Deepak1122003)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat)](https://deepakkumaravelu.site/)
 
