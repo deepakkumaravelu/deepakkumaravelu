@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumaravelu&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumaravelu" /> </p>
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge me and allow me to learn and grow.
 
-- 🔭 I’m currently working on [Freelance Website & SIH project](#)
+- 🔭 I’m currently working on [SIH project](#)
 - 🌱 I’m currently learning [Full stack development and machine learning](#)
 - 💬 Ask me about anything related to JavaScript and Web Development
 - 📫 How to reach me: [Email](mailto:deepak1122003kumar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
