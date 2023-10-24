@@ -46,10 +46,11 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
 [![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/Deepak1122003)
 [![Hashnode](https://img.shields.io/badge/Hashnode-black?style=flat)](https://hashnode.com/@Deepak1122003)
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakkumaravelu/deepakkumaravelu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakkumaravelu/deepakkumaravelu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepakkumaravelu/deepakkumaravelu/output/github-contribution-grid-snake.svg">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
