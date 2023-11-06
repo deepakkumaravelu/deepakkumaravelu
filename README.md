@@ -5,7 +5,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 - 🔭 I’m currently working on [SIH project](#)
 - 🌱 I’m currently learning [Full stack development and machine learning](#)
-- 💬 Ask me about anything related to JavaScript and Web Development
+- 💬 Ask me about anything related to Web Development
 - 📫 How to reach me: [Email](mailto:deepak1122003kumar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deepak-kumaravelu-58a653248)
 - ⚡ I love to learn and explore new technologies.
 
