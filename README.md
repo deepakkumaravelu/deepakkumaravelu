@@ -1,4 +1,4 @@
-# Hi there, I'm [Deepak K](https://deepakkumaravelu.site) 
+# Hi there 👋, I'm [Deepak K](https://deepakkumaravelu.site) 
 ![me](https://media.licdn.com/dms/image/D5603AQE1nndYgXn0-A/profile-displayphoto-shrink_800_800/0/1691766230974?e=2147483647&v=beta&t=0vHafz_4bTshwg8pEdsOdxWD4dLGDzCgrDlW5986VgY "programmer")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumaravelu&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumaravelu" /> </p>
