@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm [Deepak K](https://deepakkumaravelu.site) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumaravelu&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumaravelu" /> </p>
 
 Passionate developer with a love for coding and problem-solving. Currently working on [SIH project](#) and learning [Full stack development and machine learning](#).
 
