@@ -1,6 +1,6 @@
 # Hi there, I'm [Deepak](https://deepakkumaravelu.site) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumaravelu&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumaravelu" /> </p>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge me and allow me to learn and grow.
 
 - 🔭 I’m currently working on Freelance Web Application
