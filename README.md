@@ -27,6 +27,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumaravelu&layout=compact&theme=dark)
 
 ## Status
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumaravelu&theme=dark" alt="deepakkumaravelu" /></p>
 
 ## Trophies
